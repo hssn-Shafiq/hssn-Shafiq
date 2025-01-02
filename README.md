@@ -19,7 +19,7 @@
 - 🌱 I'm currently learning: **Exploring New Trends in DSA using javaScript**
 - 💬 Ask me about: **💡 Material UI, JavaScript, React, Vite, Firebase, Node.js, MongoDB, and RESTful APIs**
 - ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
-- 📂 Portfolio: **<a href="https://hassanshafiq.vercel.app" target="_blank">hassanshafiq.com</a>**
+- 📂 Portfolio: **<a href="https://hassanshafiq.vercel.app" target="_blank">hassanshafiq.vercel.app</a>**
 
  **<h3 align="left">Skills</h3>**
 
